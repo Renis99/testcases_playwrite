@@ -9,7 +9,7 @@
      const username = "anshika@gmail.in";
      const password = "Iamking@000"
      const username1 = "anshika@gmail.com";
-     const password2 = "Iamking@000"
+     const password2 = "Iamking@000343"
      const productName = 'Zara Coat 4';
      const products = page.locator(".card-body");
      const loginPage = poManager.getLoginPage();
